@@ -1,0 +1,6 @@
+{
+  "host": "httpbin.org",
+  "isEnabled": true,
+  "name": "HTTPBin",
+  "port": 80
+}

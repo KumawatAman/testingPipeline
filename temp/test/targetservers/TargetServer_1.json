@@ -1,0 +1,6 @@
+{
+  "host": "dummyjson.com",
+  "isEnabled": true,
+  "name": "TargetServer_1",
+  "port": 80
+}

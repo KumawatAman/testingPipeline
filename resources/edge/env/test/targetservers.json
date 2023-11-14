@@ -1,0 +1,60 @@
+[
+  {
+    "host": "mocktarget.apigee.net",
+    "isEnabled": true,
+    "name": "ApigeeMockTargetURL",
+    "port": 80
+  },
+  {
+    "host": "enterprise.com",
+    "isEnabled": true,
+    "name": "ESBTarget",
+    "port": 8080,
+    "sSLInfo": {
+      "ciphers": [],
+      "clientAuthEnabled": "false",
+      "enabled": "true",
+      "ignoreValidationErrors": false,
+      "keyAlias": "key_alias",
+      "keyStore": "keystore_name",
+      "protocols": [],
+      "trustStore": "truststore_name"
+    }
+  },
+  {
+    "host": "example.com",
+    "isEnabled": true,
+    "name": "Enterprisetarget",
+    "port": 8080
+  },
+  {
+    "host": "httpbin.org",
+    "isEnabled": true,
+    "name": "HTTPBin",
+    "port": 80
+  },
+  {
+    "host": "dummyjson.com",
+    "isEnabled": true,
+    "name": "TargetServer_1",
+    "port": 80
+  },
+  {
+    "host": "fakestoreapi.com",
+    "isEnabled": true,
+    "name": "TargetServer_2",
+    "port": 80
+  },
+  {
+    "host": "mocktarget.apigee.net",
+    "isEnabled": true,
+    "name": "lb1-mock",
+    "port": 80
+  },
+  {
+    "host": "httpbin.org",
+    "isEnabled": true,
+    "name": "lb2-mock",
+    "port": 80
+  }
+]

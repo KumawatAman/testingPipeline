@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="AM-checkforTrafficManagement" version="SHA-512:2e3bf5d59d15fd249b09dfd6dc2d3023a1996fbc09e659a7818684986e91d66b3962ab88c8cdba210e9529d7eaba091a43e821adb65b59b2ff4af32a042cc926"/>
+        <VersionInfo resourceName="EV-FetchKvmValues" version="SHA-512:0d80a88c84eeecc3cb4e8953f1c62374a2f08266cedd6039b7ddce1d34381d9485c0372c34a7e20a730c3ccc1ff89eeb3499bd196bcc2b1d42c1cbccb926cbcf"/>
+        <VersionInfo resourceName="KVM-GetValues" version="SHA-512:72120178c0d62ce16bfe0544db4c574be0f0721374aa8d39304115868c65d69c23a2312525bf60b977a5cba5bd9dd8c68478101332cbbfe94cc179771b0cc15d"/>
+        <VersionInfo resourceName="SA-Spikearrest" version="SHA-512:e2d90bda53953ca3bdb74b4a30cfec19338ab0fafb3c1167efcca5cffea144a9aedf5f1174775172b53a8f96719cca110008b239713706c3e67ff8fa45908ae3"/>
+    </Policies>
+    <ProxyEndpoints/>
+    <Resources/>
+    <SharedFlows>
+        <VersionInfo resourceName="default" version="SHA-512:f330382a765a67b0c166560661d802dff8dec00fad338f10962b6698667f7a0dedab072180e741f1aaa385f33ac2fd86153a8d8516af15e7d8f483934073b12b"/>
+    </SharedFlows>
+    <TargetEndpoints/>
+</Manifest>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="AM-checkforVerifyToken" version="SHA-512:03221fa5b212a9265f3ceda3ee5cf2a52d088c1bbe09dbfae5e4e3fa1d772196bf55a781274a5f786a81e23b4c68f56fd785d8d830794ea506e6d2df618ecda5"/>
+        <VersionInfo resourceName="OAuth-TokenValidation" version="SHA-512:3dc596e94050ef571a3ffcd0919de9856c2d84e363c6faacb6e83e68404450d0d9bacab5d5f981394be80eff41d619d7b8a63da01b4a43e106606d515c47a80a"/>
+    </Policies>
+    <ProxyEndpoints/>
+    <Resources/>
+    <SharedFlows>
+        <VersionInfo resourceName="default" version="SHA-512:172f3e014fe4b85d37233bb745fe7c88a9a839731fa0e31a69f2481ee60d8f343ebd299bb723e3c43f58e5b6915b44186aa25d20e699801371ab413f1dbd8597"/>
+    </SharedFlows>
+    <TargetEndpoints/>
+</Manifest>

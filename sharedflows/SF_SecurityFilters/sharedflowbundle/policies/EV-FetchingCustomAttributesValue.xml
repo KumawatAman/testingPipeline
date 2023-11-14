@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ExtractVariables async="false" continueOnError="false" enabled="true" name="EV-FetchingCustomAttributesValue">
+    <DisplayName>EV-FetchingCustomAttributesValue</DisplayName>
+    <Source>AccessEntity.AE-AppAttributes</Source>
+    <XMLPayload>
+        <Variable name="appWhitelistedIPs">
+            <XPath>/App/Attributes/Attribute[Name="Whitelisted_IP's"]/Value/text()</XPath>
+        </Variable>
+    </XMLPayload>
+</ExtractVariables>

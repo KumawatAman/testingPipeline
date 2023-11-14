@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SharedFlow name="default">
+    <Step>
+        <Name>AM-CheckForValidateHeaders</Name>
+    </Step>
+    <Step>
+        <Name>JS-ValidateHeaders</Name>
+        <Condition>ValidateHeadersFlag = 'true'</Condition>
+    </Step>
+    <Step>
+        <Name>RF-GenerateGenericError</Name>
+        <Condition>triggerError = 'true'</Condition>
+    </Step>
+</SharedFlow>

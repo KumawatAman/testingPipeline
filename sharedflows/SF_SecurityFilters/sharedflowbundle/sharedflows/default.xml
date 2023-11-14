@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SharedFlow name="default">
+    <Step>
+        <Name>AM-checkforVerifyToken</Name>
+    </Step>
+    <Step>
+        <Name>AE-AppAttributes</Name>
+        <Condition>VerifySecurityFlag = 'true'</Condition>
+    </Step>
+    <Step>
+        <Name>EV-FetchingCustomAttributesValue</Name>
+        <Condition>VerifySecurityFlag = 'true'</Condition>
+    </Step>
+    <Step>
+        <Name>JavaScript-1</Name>
+        <Condition>VerifySecurityFlag = 'true'</Condition>
+    </Step>
+    <Step>
+        <Name>RF-GenerateGenericError</Name>
+        <Condition>triggerError = 'true'</Condition>
+    </Step>
+    <Step>
+        <Name>AC-IpWhitelisting</Name>
+        <Condition>VerifySecurityFlag = 'true'</Condition>
+    </Step>
+    <Step>
+        <Name>RE-SQL-injection</Name>
+        <Condition>VerifySecurityFlag = 'true'</Condition>
+    </Step>
+</SharedFlow>

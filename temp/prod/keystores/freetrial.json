@@ -1,0 +1,16 @@
+{
+  "aliases": [
+    {
+      "aliasName": "freetrial",
+      "cert": "freetrial-cert",
+      "key": "freetrial-key"
+    }
+  ],
+  "certs": [
+    "freetrial-cert"
+  ],
+  "keys": [
+    "freetrial"
+  ],
+  "name": "freetrial"
+}

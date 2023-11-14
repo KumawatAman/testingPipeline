@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AccessEntity async="false" continueOnError="false" enabled="true" name="AE-AppAttributes">
+    <DisplayName>AE-AppAttributes</DisplayName>
+    <Properties/>
+    <EntityIdentifier ref="request.header.Id" type="consumerkey"/>
+    <EntityType value="app"/>
+</AccessEntity>

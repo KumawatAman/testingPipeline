@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="AC-AllowingUserIP" version="SHA-512:656e7b2c755649200baafa1207c42c2b8b17fd46228cb19636f6c513a9a4cbace8dbb78d5579468dc53bc170a91ee7c907caaee5e05b4c07124397598f8451a8"/>
+        <VersionInfo resourceName="VAK-VerifyApiKey" version="SHA-512:9dc667f02a80876b5c9f3ad5f6d58cd44b8d16f212619f5cd5f840db41cfda05a5374fca275c38344eb2669c095f6e85eacb632e59959b5adee10e3a22f6fba2"/>
+    </Policies>
+    <ProxyEndpoints/>
+    <Resources/>
+    <SharedFlows>
+        <VersionInfo resourceName="default" version="SHA-512:aa63b2d29f4bee920f4ed6024bf78171bd20ca5336ba4feca4c8bd32c4fa9dc0c70392245a4438711d63044d2f07ab0d3b2659d3bf0caddfd41e763f75687384"/>
+    </SharedFlows>
+    <TargetEndpoints/>
+</Manifest>

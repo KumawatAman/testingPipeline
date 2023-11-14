@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AccessControl async="false" continueOnError="false" enabled="true" name="AC-IpWhitelisting">
+    <DisplayName>AC-IpWhitelisting</DisplayName>
+    <Properties/>
+    <IPRules noRuleMatchAction="DENY">
+        <MatchRule action="ALLOW">
+            <SourceAddress mask="32">{AllowedIp}</SourceAddress>
+        </MatchRule>
+    </IPRules>
+</AccessControl>

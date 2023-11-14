@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SharedFlowBundle revision="6" name="SF_ValidateHeaders">
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1676351427070</CreatedAt>
+    <CreatedBy>payal.gehlot@neosalpha.com</CreatedBy>
+    <Description>undefined</Description>
+    <DisplayName>SF_ValidateHeaders</DisplayName>
+    <LastModifiedAt>1676957937578</LastModifiedAt>
+    <LastModifiedBy>payal.gehlot@neosalpha.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:94d916e12f0dc491c78b01630b0877ba11f3988ef2b389d97d8e97197c37dda8094e95743d388db361f6814507b47e0f6e92fc2330a15e2713919aec5f38a883:ap-northeast-1</ManifestVersion>
+    <Policies>
+        <Policy>AM-CheckForValidateHeaders</Policy>
+        <Policy>JS-ValidateHeaders</Policy>
+        <Policy>RF-GenerateGenericError</Policy>
+    </Policies>
+    <Resources>
+        <Resource>jsc://ValidateHeaders.js</Resource>
+    </Resources>
+    <Spec></Spec>
+    <subType>SharedFlow</subType>
+    <SharedFlows>
+        <SharedFlow>default</SharedFlow>
+    </SharedFlows>
+</SharedFlowBundle>

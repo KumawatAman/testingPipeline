@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="JS-filter" version="SHA-512:16113dfc9b5ad7292a912ad35f71b0e85642b81731ab50118919b6f62bdcfa310390440f9f00eee15f7ab65e919d142d02683f4d8baba37d5484231b07599733"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:539df0850af73d2d478472273f31a8d480e8eb751499f05a027fb2efb496cb7306b9302df4578da184f477b3424d4554cc9a7d42bd6311b507b05999d85878e6"/>
+    </ProxyEndpoints>
+    <Resources>
+        <VersionInfo resourceName="jsc://JavaScript-1.js" version="SHA-512:21f62423cb6a21ebb9e2f92d80e3fd2576a19ea1249fe0ec37cf28476e88af76a44e096113a91da0cdcb1092bcf4da19475b515c850c6bc3cad7f121c7da88f5"/>
+    </Resources>
+    <SharedFlows/>
+    <TargetEndpoints/>
+</Manifest>

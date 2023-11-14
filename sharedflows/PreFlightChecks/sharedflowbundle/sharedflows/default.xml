@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SharedFlow name="default">
+    <Step>
+        <Name>FC-VerifyToken</Name>
+    </Step>
+    <Step>
+        <Name>FC-VerifyHeaders</Name>
+    </Step>
+    <Step>
+        <Name>FC-SecurityFilters</Name>
+    </Step>
+    <Step>
+        <Name>FC-TrafficManagement</Name>
+    </Step>
+</SharedFlow>

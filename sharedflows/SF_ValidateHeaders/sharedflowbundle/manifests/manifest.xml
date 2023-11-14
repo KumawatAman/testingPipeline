@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="AM-CheckForValidateHeaders" version="SHA-512:8f4b3f8a0eb37c43d843675658c4d65e3635876063579a93b451cea4dde083f61294911b70b8ab8a8b7f3e9b4e949a75108fab3ee08691e88eb1084a991173b7"/>
+        <VersionInfo resourceName="JS-ValidateHeaders" version="SHA-512:349d934d11cdbc2185276650e223aa9d4d675e7826a4e334ac87e0987d969daebc360ae663d186f7f0f0a684e2e36e1bcbda26e47e747db9490cdcd531c1c2ce"/>
+        <VersionInfo resourceName="RF-GenerateGenericError" version="SHA-512:b2d15a9082525f2711c56a0d168083cc68dbf52af9ce00ee93d0aaa5dbd5fae405a10f7007ec1d531e31c6fa29fdf2482a07ab43d0dbacd3d056e4dc1a25ae4d"/>
+    </Policies>
+    <ProxyEndpoints/>
+    <Resources>
+        <VersionInfo resourceName="jsc://ValidateHeaders.js" version="SHA-512:2a074a4c9d7d11b1df013b2e7b205a403771bfaa397e0498746f4ab0a85b53685586ffb728cc7a4e63e2e3289e9456be4dd3ac5e99b9a6dfbc9ed1a6a10def7c"/>
+    </Resources>
+    <SharedFlows>
+        <VersionInfo resourceName="default" version="SHA-512:25485655bf35df738e6ec77b6a73415617122203149cfef9f52aa84af2ff5c47d6c594ab77aa38af5071006611d8467693852eb1d977e261dd5b9f7d549b7e92"/>
+    </SharedFlows>
+    <TargetEndpoints/>
+</Manifest>

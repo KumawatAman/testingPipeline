@@ -1,0 +1,18 @@
+{
+  "encrypted": false,
+  "entry": [
+    {
+      "name": "new_key_name1",
+      "value": "new_key_value"
+    },
+    {
+      "name": "myKEY",
+      "value": "12345"
+    },
+    {
+      "name": "new_key_name",
+      "value": "new_key_value"
+    }
+  ],
+  "name": "myKVM"
+}

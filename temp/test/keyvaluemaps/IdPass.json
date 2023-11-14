@@ -1,0 +1,22 @@
+{
+  "encrypted": false,
+  "entry": [
+    {
+      "name": "User_1.username",
+      "value": "Bank@username"
+    },
+    {
+      "name": "Username",
+      "value": "Bankusername"
+    },
+    {
+      "name": "User_1.password",
+      "value": "Bank@password"
+    },
+    {
+      "name": "Password",
+      "value": "Bankpassword"
+    }
+  ],
+  "name": "IdPass"
+}

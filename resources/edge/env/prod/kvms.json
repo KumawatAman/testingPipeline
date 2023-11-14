@@ -1,0 +1,44 @@
+[
+  {
+    "encrypted": false,
+    "entry": [
+      {
+        "name": "Username",
+        "value": "@name1"
+      }
+    ],
+    "name": "IdPass"
+  },
+  {
+    "encrypted": false,
+    "entry": [
+      {
+        "name": "Visa.Service1.Password",
+        "value": "POIUYTREWQ)"
+      },
+      {
+        "name": "Visa.Service1.Username",
+        "value": "qwerty1234"
+      },
+      {
+        "name": "Visa.Service2.Username",
+        "value": "ZXCVBNM"
+      },
+      {
+        "name": "Visa.Service2.Password",
+        "value": ")(*&^%$#@!QWERTYUIOP"
+      }
+    ],
+    "name": "VisaBank"
+  },
+  {
+    "encrypted": false,
+    "entry": [
+      {
+        "name": "Test",
+        "value": "Kong"
+      }
+    ],
+    "name": "kvm_stats"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "encrypted": true,
+  "entry": [
+    {
+      "name": "sample-kvm",
+      "value": "*****"
+    }
+  ],
+  "name": "example_kvm"
+}

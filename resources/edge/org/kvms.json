@@ -1,0 +1,49 @@
+[
+  {
+    "encrypted": false,
+    "entry": [
+      {
+        "name": "username1",
+        "value": "nikhil20231"
+      },
+      {
+        "name": "username2",
+        "value": "nikhil20231"
+      }
+    ],
+    "name": "try"
+  },
+  {
+    "encrypted": true,
+    "entry": [],
+    "name": "try1"
+  },
+  {
+    "encrypted": false,
+    "entry": [
+      {
+        "name": "ACTIVE",
+        "value": "001"
+      },
+      {
+        "name": "DISABLED",
+        "value": "002"
+      }
+    ],
+    "name": "user_account_status"
+  },
+  {
+    "encrypted": false,
+    "entry": [
+      {
+        "name": "max_start_date",
+        "value": "1460896299"
+      },
+      {
+        "name": "name_max_length",
+        "value": "15"
+      }
+    ],
+    "name": "validation_rules"
+  }
+]

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="AC-IpWhitelisting" version="SHA-512:6b07e1dcbcac665eeaef669c9f9a4a6ffcfe20f76a8cb3d56047f2821e906786afbd2b07b4e2ac6d804ab470edbd8f15fab7c004c64a13818bea7939cd652a48"/>
+        <VersionInfo resourceName="AE-AppAttributes" version="SHA-512:5769dc6d0741da8adc0975e425a114da4a4576d0cb5b40d7fbb8d2389b2bf5a70318d1cf910462bf66b0c966e8181323593ed58d801a10d95a7416d0de4f2100"/>
+        <VersionInfo resourceName="AM-checkforVerifyToken" version="SHA-512:cee7d606a95ccca7a03f385e1478fd86f80baa3ff3fc46f0ccc547a81ff1c8f52aee64d1dd3406cd5cb4c36f3118b3053c1bab861bed357c7a43602ab327d3b0"/>
+        <VersionInfo resourceName="EV-FetchingCustomAttributesValue" version="SHA-512:6c70eaf670d8fca917e9034eb19aed263ecaab9613bd597ab0160d9fd99adcd7f7e712c277901f9642bf59295da935b0da8aef467dfec252855e69d0260a851e"/>
+        <VersionInfo resourceName="JavaScript-1" version="SHA-512:5cf0ea15f602024aa350a8b98704ed506054493363f785aaf99b585236be8038d6382fcd6e43c6b93b4f9f475a8663359305396a9f248d2c49e1a71aa7d90ac1"/>
+        <VersionInfo resourceName="RE-SQL-injection" version="SHA-512:593b6c8eb6eeff379b6aba31153f29f02ee92c25bc55f9fc8255cc1d84611acfacefd75497cf3e2cca4dd23daa92ecfe7a7ed8b8af2223e815a24f27ad1ef6da"/>
+        <VersionInfo resourceName="RF-GenerateGenericError" version="SHA-512:b2d15a9082525f2711c56a0d168083cc68dbf52af9ce00ee93d0aaa5dbd5fae405a10f7007ec1d531e31c6fa29fdf2482a07ab43d0dbacd3d056e4dc1a25ae4d"/>
+    </Policies>
+    <ProxyEndpoints/>
+    <Resources>
+        <VersionInfo resourceName="jsc://JavaScript-1.js" version="SHA-512:c364176d18bc063d13142c470bd1a9828a5bdc678b8e5afbd6e6f213ba31dca8d01017fe42a6e57c6145012a8c1b1c8bb40eabfebb4059e124f826fafc3ba238"/>
+    </Resources>
+    <SharedFlows>
+        <VersionInfo resourceName="default" version="SHA-512:a44f8c7b05632495a9d276a054889892e2a771d2fa1762d55a698796d2f6749b2934cbf523dc79d42e264ba476036d954828a7c988d02f0bc096523038536b46"/>
+    </SharedFlows>
+    <TargetEndpoints/>
+</Manifest>

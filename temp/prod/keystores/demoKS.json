@@ -1,0 +1,16 @@
+{
+  "aliases": [
+    {
+      "aliasName": "demo",
+      "cert": "demo-cert",
+      "key": "demo-key"
+    }
+  ],
+  "certs": [
+    "demo-cert"
+  ],
+  "keys": [
+    "demo"
+  ],
+  "name": "demoKS"
+}

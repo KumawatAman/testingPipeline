@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="FC-SecurityFilters" version="SHA-512:070b4518404c7c12ee1989640fe58b5be73a4da56d7e6095d28d5f810ce3e39a2045ca0896b7d9b13958d39f09689bae07ce99ffc27b872dee1b0efa2bc6d8a8"/>
+        <VersionInfo resourceName="FC-TrafficManagement" version="SHA-512:8861ebfb18742f380c3e3a2f50205d6a83f74a6a79a104732aaf41f883118476805981f4afd30e7c474de77e469b9de665c10cfa5a51c8e4426d275cb8ef08c6"/>
+        <VersionInfo resourceName="FC-VerifyHeaders" version="SHA-512:a353a7b2199bb8be0efe553534f03eef75e71d7939d299d7a13450e58d8f2feb0de769b3b0557a907eb44c6a18a9a9fc9b4b63857688b5fa64b9da516b2e1666"/>
+        <VersionInfo resourceName="FC-VerifyToken" version="SHA-512:109d47e48884034d4eb79402f3ed90440cb27152be946472b6289a09b31a0295f3bcf2b365526c3a2c64f98353697c0f1da3766008d845ee91f96b135c8c98fb"/>
+    </Policies>
+    <ProxyEndpoints/>
+    <Resources/>
+    <SharedFlows>
+        <VersionInfo resourceName="default" version="SHA-512:0bcd19a9ccb9bddb405971f322ac3238807fa162d424ba53f89af382f325b6899cd9ab35e2518db972d70ac2b564cb8d949caf6c27905da1233a6c76ef649c82"/>
+    </SharedFlows>
+    <TargetEndpoints/>
+</Manifest>

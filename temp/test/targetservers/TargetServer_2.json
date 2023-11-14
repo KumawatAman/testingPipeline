@@ -1,0 +1,6 @@
+{
+  "host": "fakestoreapi.com",
+  "isEnabled": true,
+  "name": "TargetServer_2",
+  "port": 80
+}

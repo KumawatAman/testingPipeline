@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ExtractVariables async="false" continueOnError="false" enabled="true" name="EV-FetchKvmValues">
+    <DisplayName>EV-FetchKvmValues</DisplayName>
+    <IgnoreUnresolvedVariables>true</IgnoreUnresolvedVariables>
+    <JSONPayload>
+        <Variable name="spikerate">
+            <JSONPath>$.rateLimit</JSONPath>
+        </Variable>
+    </JSONPayload>
+    <Source clearPayload="false">kvm_value</Source>
+</ExtractVariables>

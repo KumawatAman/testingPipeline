@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SpikeArrest async="false" continueOnError="false" enabled="true" name="SA-Spikearrest">
+    <DisplayName>SA-Spikearrest</DisplayName>
+    <Properties/>
+    <Identifier ref="request.header.Id"/>
+    <Rate ref="spikerate">5pm</Rate>
+    <UseEffectiveCount>true</UseEffectiveCount>
+</SpikeArrest>

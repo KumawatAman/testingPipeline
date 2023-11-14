@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RegularExpressionProtection async="false" continueOnError="false" enabled="true" name="RE-SQL-injection">
+    <DisplayName>RE-SQL injection</DisplayName>
+    <Properties/>
+    <IgnoreUnresolvedVariables>false</IgnoreUnresolvedVariables>
+    <QueryParam name="check">
+        <Pattern>[\s]*(?i)((delete)|(exec)|(drop\s*table)|(insert)|(shutdown)|(update)|(\bor\b))</Pattern>
+    </QueryParam>
+    <Source>request</Source>
+</RegularExpressionProtection>

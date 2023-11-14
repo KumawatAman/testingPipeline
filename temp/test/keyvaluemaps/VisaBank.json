@@ -1,0 +1,22 @@
+{
+  "encrypted": false,
+  "entry": [
+    {
+      "name": "Visa.Service1.Password",
+      "value": ")(*&^%$#@!"
+    },
+    {
+      "name": "Visa.Service1.Username",
+      "value": "QWERTYUI!@#$%"
+    },
+    {
+      "name": "Visa.Service2.Username",
+      "value": "MNBVCXSDFGH"
+    },
+    {
+      "name": "Visa.Service2.Password",
+      "value": "!@#$%"
+    }
+  ],
+  "name": "VisaBank"
+}

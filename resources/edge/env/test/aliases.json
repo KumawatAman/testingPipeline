@@ -1,0 +1,78 @@
+[
+  {
+    "alias": "demo",
+    "certsInfo": {
+      "certInfo": [
+        {
+          "basicConstraints": "CA:FALSE",
+          "expiryDate": 1693369655000,
+          "isValid": "No",
+          "issuer": "EMAILADDRESS=demo123@gmail.com, CN=aman, OU=NA, O=NA, L=Jaipur, ST=Rajasthan, C=IN",
+          "publicKey": "RSA Public Key, 2048 bits",
+          "serialNumber": "47:cc:f3:58:46:a3:d9:8b:fb:51:d2:c1:15:1d:cf:99:00:21:9d:2d",
+          "sigAlgName": "SHA256withRSA",
+          "subject": "EMAILADDRESS=demo123@gmail.com, CN=aman, OU=NA, O=NA, L=Jaipur, ST=Rajasthan, C=IN",
+          "subjectAlternativeNames": [],
+          "validFrom": 1661833655000,
+          "version": 1
+        }
+      ],
+      "certName": "demo-cert"
+    },
+    "keyName": "demo"
+  },
+  {
+    "alias": "freetrial",
+    "certsInfo": {
+      "certInfo": [
+        {
+          "basicConstraints": "CA:FALSE",
+          "expiryDate": 1583446998000,
+          "isValid": "No",
+          "issuer": "CN=GTS CA 1O1, O=Google Trust Services, C=US",
+          "publicKey": "RSA Public Key, 2048 bits",
+          "serialNumber": "04:ba:ea:8c:e6:91:ec:d2:01:00:00:00:00:27:ef:c8",
+          "sigAlgName": "SHA256withRSA",
+          "subject": "CN=apigee.net, O=Google LLC, L=Mountain View, ST=California, C=US",
+          "subjectAlternativeNames": [
+            "apigee.net",
+            "*.apigee.net"
+          ],
+          "validFrom": 1551997398000,
+          "version": 3
+        },
+        {
+          "basicConstraints": "CA:FALSE",
+          "expiryDate": 1583446998000,
+          "isValid": "No",
+          "issuer": "CN=GTS CA 1O1, O=Google Trust Services, C=US",
+          "publicKey": "RSA Public Key, 2048 bits",
+          "serialNumber": "04:ba:ea:8c:e6:91:ec:d2:01:00:00:00:00:27:ef:c8",
+          "sigAlgName": "SHA256withRSA",
+          "subject": "CN=apigee.net, O=Google LLC, L=Mountain View, ST=California, C=US",
+          "subjectAlternativeNames": [
+            "apigee.net",
+            "*.apigee.net"
+          ],
+          "validFrom": 1551997398000,
+          "version": 3
+        },
+        {
+          "basicConstraints": "CA:TRUE",
+          "expiryDate": 1639526442000,
+          "isValid": "No",
+          "issuer": "CN=GlobalSign, O=GlobalSign, OU=GlobalSign Root CA - R2",
+          "publicKey": "RSA Public Key, 2048 bits",
+          "serialNumber": "01:e3:b4:9a:a1:8d:8a:a9:81:25:69:50:b8",
+          "sigAlgName": "SHA256withRSA",
+          "subject": "CN=GTS CA 1O1, O=Google Trust Services, C=US",
+          "subjectAlternativeNames": [],
+          "validFrom": 1497484842000,
+          "version": 3
+        }
+      ],
+      "certName": "freetrial-cert"
+    },
+    "keyName": "freetrial"
+  }
+]

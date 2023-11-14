@@ -1,0 +1,16 @@
+{
+  "host": "enterprise.com",
+  "isEnabled": true,
+  "name": "ESBTarget",
+  "port": 8080,
+  "sSLInfo": {
+    "ciphers": [],
+    "clientAuthEnabled": "false",
+    "enabled": "true",
+    "ignoreValidationErrors": false,
+    "keyAlias": "key_alias",
+    "keyStore": "keystore_name",
+    "protocols": [],
+    "trustStore": "truststore_name"
+  }
+}

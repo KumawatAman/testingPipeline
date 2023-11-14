@@ -1,0 +1,10 @@
+{
+  "encrypted": false,
+  "entry": [
+    {
+      "name": "Test",
+      "value": "Kong"
+    }
+  ],
+  "name": "kvm_stats"
+}

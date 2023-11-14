@@ -1,0 +1,14 @@
+{
+  "encrypted": true,
+  "entry": [
+    {
+      "name": "client_secret",
+      "value": "*****"
+    },
+    {
+      "name": "client_id",
+      "value": "*****"
+    }
+  ],
+  "name": "backendCreds"
+}

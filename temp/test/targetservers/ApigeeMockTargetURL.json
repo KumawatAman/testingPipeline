@@ -1,0 +1,6 @@
+{
+  "host": "mocktarget.apigee.net",
+  "isEnabled": true,
+  "name": "ApigeeMockTargetURL",
+  "port": 80
+}

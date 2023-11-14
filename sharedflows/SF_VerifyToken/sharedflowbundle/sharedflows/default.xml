@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SharedFlow name="default">
+    <Step>
+        <Name>AM-checkforVerifyToken</Name>
+    </Step>
+    <Step>
+        <Name>OAuth-TokenValidation</Name>
+        <Condition>VerifyTokenFlag = 'true'</Condition>
+    </Step>
+</SharedFlow>
