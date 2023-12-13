@@ -6,11 +6,12 @@
     <CreatedBy>payal.gehlot@neosalpha.com</CreatedBy>
     <Description></Description>
     <DisplayName>FilterData</DisplayName>
-    <LastModifiedAt>1698749944490</LastModifiedAt>
+    <LastModifiedAt>1702385674301</LastModifiedAt>
     <LastModifiedBy>payal.gehlot@neosalpha.com</LastModifiedBy>
-    <ManifestVersion>SHA-512:08b211efcfbb1f923587bff27b3c1405f5bd1473ce576a225afb7bb4bf304c4603b476b63e0733c36a83f3adaa1f08ca08ac003b67d38e53fbc3ee71dff49eb9:ap-northeast-1</ManifestVersion>
+    <ManifestVersion>SHA-512:239bbcad35aa852583b3251b48f3de5820bb0b2f4ce17e4e735e0715516ce655c034e92b198e0259b2772d405158ac1ebc4f3eff313656791378592fa721d72b:ap-northeast-1</ManifestVersion>
     <Policies>
         <Policy>JS-filter</Policy>
+        <Policy>Statistics-Collector-1</Policy>
     </Policies>
     <ProxyEndpoints>
         <ProxyEndpoint>default</ProxyEndpoint>

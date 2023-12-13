@@ -2,9 +2,10 @@
 <Manifest name="manifest">
     <Policies>
         <VersionInfo resourceName="JS-filter" version="SHA-512:16113dfc9b5ad7292a912ad35f71b0e85642b81731ab50118919b6f62bdcfa310390440f9f00eee15f7ab65e919d142d02683f4d8baba37d5484231b07599733"/>
+        <VersionInfo resourceName="Statistics-Collector-1" version="SHA-512:37ee92243af27a79015cf66dc07db968166ad6621308f989329e77e4f281cc219752643085fa66adfd7f5a3eea1d4ed7c0376209a7e56c4d3ac1ef57c4725198"/>
     </Policies>
     <ProxyEndpoints>
-        <VersionInfo resourceName="default" version="SHA-512:539df0850af73d2d478472273f31a8d480e8eb751499f05a027fb2efb496cb7306b9302df4578da184f477b3424d4554cc9a7d42bd6311b507b05999d85878e6"/>
+        <VersionInfo resourceName="default" version="SHA-512:a23ae6e6777bd51eed830f20510ad13fce7762a5c16d5b3f851b64ade4c87ab78a2a84f58aef4936b6a1a93afe8e062f44fa28212b81d4be3135afcca4f4cb50"/>
     </ProxyEndpoints>
     <Resources>
         <VersionInfo resourceName="jsc://JavaScript-1.js" version="SHA-512:21f62423cb6a21ebb9e2f92d80e3fd2576a19ea1249fe0ec37cf28476e88af76a44e096113a91da0cdcb1092bcf4da19475b515c850c6bc3cad7f121c7da88f5"/>

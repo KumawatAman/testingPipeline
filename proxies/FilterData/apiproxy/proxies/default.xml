@@ -2,6 +2,9 @@
 <ProxyEndpoint name="default">
     <PreFlow name="PreFlow">
         <Request>
+            <Step>
+                <Name>Statistics-Collector-1</Name>
+            </Step>
         </Request>
         <Response>
             <Step>
