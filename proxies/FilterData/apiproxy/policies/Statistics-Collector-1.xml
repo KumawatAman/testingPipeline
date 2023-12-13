@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<DataCapture name="Statistics-Collector-1" continueOnError="false" enabled="true">
-    <DisplayName>Statistics Collector-1</DisplayName>
-    <IgnoreUnresolvedVariables>false</IgnoreUnresolvedVariables>
-    <Capture>
-        <Collect ref="existing-variable" default="0"/>
-        <DataCollector>dc-1</DataCollector>
-    </Capture>
-</DataCapture>

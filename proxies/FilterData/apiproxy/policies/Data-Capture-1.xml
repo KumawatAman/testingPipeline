@@ -1,0 +1,8 @@
+<DataCapture name="Data-Capture-1" continueOnError="false" enabled="true">
+  <DisplayName>Data Capture-1</DisplayName>
+  <IgnoreUnresolvedVariables>false</IgnoreUnresolvedVariables>
+  <Capture>
+    <Collect ref="existing-variable" default="0"></Collect>
+    <DataCollector>dc-1</DataCollector>
+  </Capture>
+</DataCapture>
